@@ -2,7 +2,7 @@
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/spitz8823spitz/cardano/main/NNSP64.png",
-        "url_png_logo": "https://raw.githubusercontent.com/spitz8823spitz/cardano/main/NNSP50k.png",
+        "url_png_logo": "https://raw.githubusercontent.com/spitz8823spitz/cardano/main/NNSP47k.png",
         "location": "London, England",
         "social": {
             "twitter_handle": "@7nekonymous",
