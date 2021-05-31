@@ -14,16 +14,16 @@
             "github_handle": ""
         },
         "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "name": "-",
+            "addr": "-",
+            "city": "-",
+            "country": "Japan",
+            "company_id": "-",
+            "vat_id": "-"
         },
         "about": {
             "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
+            "server": "We are using a high performance cloud server. We have two relay nodes running in Japan and Singapore.",
             "company": "..."
         }
     },
@@ -41,12 +41,12 @@
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "relay 1 eu",
+                "name": "relay 1 JPN",
                 "type": "relay",
                 "key": "example_get_own_on_adapools.org/connect"
             },
             "1": {
-                "name": "relay 2 usa",
+                "name": "relay 2 SGP",
                 "type": "relay",
                 "key": "example_get_own_on_adapools.org/connect"
             },
