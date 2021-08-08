@@ -3,6 +3,6 @@
 "ticker":"🐈NNSP",
 "discordId":"618998753503739907",
 "pool-list":"true",
-"poolMetaData":"https://xstakepool.com/xstakepool.json",
-"validation":"https://xstakepool.com/sjg-validation.json"
+"poolMetaData":"https://raw.githubusercontent.com/spitz8823spitz/cardano/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/spitz8823spitz/cardano/main/sjg-validation.json"
 }
