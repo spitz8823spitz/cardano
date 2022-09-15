@@ -23,7 +23,7 @@
         },
         "about": {
             "me": "...",
-            "server": "We are using a high performance cloud server.",
+            "server": "BP CPU:8Core MEM:32G BRelay x4 CPU:6Core MEM:16GB .",
             "company": "..."
         }
     },
