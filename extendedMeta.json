@@ -23,7 +23,7 @@
         },
         "about": {
             "me": "Nice to meet you, we are Noraneko Stake Pool (NNSP) run by cat-loving engineers😸.We are not a business, but a private company, and we will operate carefully to avoid operational errors 🛠️.I am happy to be involved as an SPO supporting the slow and steady development of Cardano's network for the global platform.We are still a small pool, but we are looking forward to working with you.",
-            "server": "📍BP CPU:8Core RAM:32GB 📍Relay x2 CPU:6Core RAM:16GB　📍Relay x1 CPU:4Core RAM:16GB",
+            "server": "📍BP CPU:8Core RAM:32GB 📍Relay x3 CPU:6Core RAM:16GB　📍Relay x1 CPU:4Core RAM:16GB",
             "company": "..."
         }
     },
@@ -51,6 +51,16 @@
                 "key": "example_get_own_on_adapools.org/connect"
             },
             "2": {
+                "name": "relay 3 USA",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "4": {
+                "name": "relay 4 DUS",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "5": {
                 "name": "block producer home",
                 "type": "bp",
                 "key": "example_get_own_on_adapools.org/connect"
